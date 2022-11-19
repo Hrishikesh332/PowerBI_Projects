@@ -4,7 +4,6 @@
 
 **Objective**:
 
--To complete the challenge of 15 days of power bi
 
 -To share the resources to learn power bi
 
